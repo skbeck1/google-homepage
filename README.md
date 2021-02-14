@@ -1,0 +1,2 @@
+This is my first true assignment for The Odin Project. I started this journey in February of 2021 as a way to learn programming (Git, HTML, CSS, Java, short term), with the long term goal of learning Python and SQL.
+This project will focus on deconstructing and reconstructing the Google homepage with the intention of learning about code structure.
